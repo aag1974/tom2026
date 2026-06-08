@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+mockup_capa.html
+build_apresentacao.py
+build_categoria.py
