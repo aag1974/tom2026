@@ -4,7 +4,7 @@ Apresentação HTML interativa dos resultados da pesquisa Top of Mind 2026, do J
 
 ## Como usar
 
-- **Apresentação**: [`apresentacao.html`](apresentacao.html) — single-page deck navegável (89 slides 16:9). Use as setas do teclado (← →) ou os controles no rodapé.
+- **Apresentação**: [`index.html`](index.html) — single-page deck navegável (89 slides 16:9). Use as setas do teclado (← →) ou os controles no rodapé. Quando hospedado no GitHub Pages, a URL raiz abre direto a apresentação.
 - **Relatório completo (PDF)**: o botão **Relatório Completo** na capa baixa o arquivo `Top of Mind 2026 — Relatorio.pdf`.
 - **Relatórios por categoria**: 72 arquivos HTML em [`categorias/`](categorias/). O botão **Gerar relatório** em cada slide de categoria abre um modal com opções de imprimir, salvar como PDF ou compartilhar por WhatsApp.
 
@@ -12,7 +12,7 @@ Apresentação HTML interativa dos resultados da pesquisa Top of Mind 2026, do J
 
 ```
 .
-├── apresentacao.html                       # apresentação principal
+├── index.html                              # apresentação principal (entry GitHub Pages)
 ├── Top of Mind 2026 — Relatorio.pdf        # PDF da apresentação completa
 ├── categorias/                             # 72 relatórios A4 por categoria
 │   ├── Q_10_Top_das_Marcas.html
